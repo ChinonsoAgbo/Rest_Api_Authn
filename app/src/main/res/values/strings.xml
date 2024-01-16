@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rest_Auth_API</string>
+    <string name="user_s_page_des">"User's page "</string>
+    <string name="menu">List of Users</string>
+</resources>
